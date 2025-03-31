@@ -26,7 +26,7 @@ import { Server } from "http";
  * @constant
  * @type {number}
  */
-const port = 3000;
+const port = 3010;
 
 /**
  * Handles the application exit process by closing the provided server instance
